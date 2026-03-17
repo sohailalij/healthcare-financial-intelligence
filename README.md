@@ -138,5 +138,4 @@ hospital_cost_intelligence/
 ---
 
 ## 👤 Author
-**Sohail Ali Jafar Ali**
-M.S. Data Science @ ASU | https://www.linkedin.com/in/sohail-ali-jafar-ali/ | https://github.com/sohailalij
+**Sohail Ali Jafar Ali** | M.S. Data Science @ ASU | https://www.linkedin.com/in/sohail-ali-jafar-ali/ | https://github.com/sohailalij
