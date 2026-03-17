@@ -138,6 +138,5 @@ hospital_cost_intelligence/
 ---
 
 ## 👤 Author
-**[Your Name]**
-Healthcare Data Analyst | ASU
-[Your LinkedIn] | [Your GitHub]
+**Sohail Ali Jafar Ali**
+M.S. Data Science @ ASU | https://www.linkedin.com/in/sohail-ali-jafar-ali/ | https://github.com/sohailalij
